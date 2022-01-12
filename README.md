@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samJBonnell
-- 👀 I’m interested in computational fluid mechanics (although I have done naught with it).
+- 👀 I’m interested in computational fluid mechanics.
 - 🌱 I’m currently learning more complex C++ concepts and programming idioms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
